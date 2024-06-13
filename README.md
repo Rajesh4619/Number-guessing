@@ -6,23 +6,38 @@ If the user can’t guess the number then the game is over. S
 
 Python concepts are covered in this project are
 If-else,
-While Loop,
+
+While Loop
+,
 Random function,
+
 break statement.
 
 
 output for my code
 
 Hi, What is your name? rajesh
+
 Alright rajesh! I am thinking a number between 1 and 100:
+
 Try in guess it in 10 tries
+
 12
+
 Your guess is too low.
+
 34
+
 Your guess is too low.
+
 78
+
 Your guess is too high.
+
 56
+
 Your guess is too low.
+
 68
+
 Congratulations,rajesh! You guessed the number in  5  tries!
